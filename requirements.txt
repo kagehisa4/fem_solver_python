@@ -1,4 +1,3 @@
-
-numpy
-scipy
+NumPy
+SciPy
 matplotlib
