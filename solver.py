@@ -1,7 +1,11 @@
+#import libraries
+
 import numpy as np
 from scipy.linalg import eigh
 import matplotlib.pyplot as plt
 
+#Define physical constants of the beam Area of cross-section (A), Lengh (L),
+# Shear Modulus (G), Polar moment of inertia (J), Density (rho), Joint_stiffness (k_j)
 A,L,G,J,rho,k_j = .0025, 1, 81e9, 2* (5/100)**4/12, 7850,0
 
 no_of_elements = input('Enter number of elements: ')
