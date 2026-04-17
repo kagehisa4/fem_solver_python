@@ -80,7 +80,7 @@ fem-solver-python/
 
 git clone https://github.com/your-username/fem_solver_python.git
 
-cd fem-solver-python
+cd fem_solver_python
 
 ```
 
