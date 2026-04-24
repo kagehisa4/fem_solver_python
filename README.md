@@ -1,6 +1,6 @@
 ﻿\# 🧮 FEM Solver (Python)
 
-# Note that this solver works only for torsion mode shapes for any cantilever beam. 
+### Note that this solver works only for torsion mode shapes for any cantilever beam. 
 
 A Python-based \*\*Finite Element Method (FEM) solver\*\* developed for beam modal analysis.  
 
